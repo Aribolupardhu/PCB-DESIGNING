@@ -15,3 +15,6 @@ The schematic was created using EasyEDA.
 ## Objective
 To understand amplifier circuit design and prepare it for PCB layout.
 
+## Bill of Materials
+See the [BOM](BOM.md) for component details.
+
