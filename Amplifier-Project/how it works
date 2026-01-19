@@ -1,0 +1,6 @@
+## How It Works
+
+This amplifier takes a small audio signal on the input and increases the amplitude using an op-amp stage (LM358).  
+- Input goes to the non-inverting terminal  
+- Feedback network sets gain  
+- Output is delivered to output connector
